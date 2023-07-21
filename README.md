@@ -1,8 +1,8 @@
 ### Olá 👋
 
 - Atualmente no ultimo ano do curso técnico em programação de jogos do ETE Cicero Dias
-- Estudando front-end: Html,Css e Js
-- Estudando back-end: C#
+- Estudando front-end: react js, bootstrap 
+- Estudando back-end: Node.js, banco de dados (atualmente SQLite)
 - Estudando criação  de jogos digitais: Unity
 - Github em desenvolvimento
 
