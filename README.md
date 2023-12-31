@@ -1,11 +1,14 @@
 ### Olá meu nome é Manoel
 
-- Ensino médio finalizado.
-- Front-end: react js, bootstrap.
-- Back-end: Node.js, Spring Boot.
-- Banco de dados: mySQL, MongoDB.
-- Criação  de jogos digitais: Unity.
-- Github em desenvolvimento.
+- Ensino médio finalizado ETE Cícero Dias.
+- Tecnico em programação de jogos digitais: Unity.
+- Atualmente jovem aprendiz meio periodo back-end em Spring boot e mySQL
+
+<!--
+- Front-end: react js e bootstrap.
+- Back-end: Node.js e Spring Boot.
+- Banco de dados: mySQL e MongoDB.
+-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoel612&show_icons=false&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel612&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
@@ -23,7 +26,14 @@
  - Back-end:
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Rafa-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div>
+
+<div style="display: inline_block"><br>
+ - Banco de dados:
+  <img align="center" alt="Rafa-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rafa-Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
   
   ##
