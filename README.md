@@ -1,11 +1,11 @@
 ### Olá 👋
 
-- Ensino médio finalizado
+- Ensino médio finalizado.
 - Front-end: react js, bootstrap.
 - Back-end: Node.js, Spring Boot.
 - Banco de dados: mySQL, MongoDB.
-- Criação  de jogos digitais: Unity
-- Github em desenvolvimento
+- Criação  de jogos digitais: Unity.
+- Github em desenvolvimento.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoel612&show_icons=false&theme=cobalt)
