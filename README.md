@@ -1,8 +1,8 @@
 ### Olá meu nome é Manoel
 
-- Ensino médio finalizado ETE Cícero Dias.
-- Tecnico em programação de jogos digitais: Unity.
-- Atualmente jovem aprendiz meio periodo back-end em Spring boot e mySQL
+- IFPE: Análise e Desenvolvimento de Sistemas (primeiro período)
+- ETE Cícero Dias: Técnico em programação de jogos digitais.
+- Atualmente dev jovem aprendiz back-end em Spring boot e mySQL.
 
 <!--
 - Front-end: react js e bootstrap.
