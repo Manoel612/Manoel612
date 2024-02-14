@@ -2,7 +2,7 @@
 
 - IFPE: Análise e Desenvolvimento de Sistemas (primeiro período)
 - ETE Cícero Dias: Técnico em programação de jogos digitais.
-- Atualmente dev jovem aprendiz back-end em Spring boot e mySQL.
+- Atualmente dev jovem aprendiz back-end em Java Spring boot e mySQL.
 
 <!--
 - Front-end: react js e bootstrap.
