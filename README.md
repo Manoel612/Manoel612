@@ -2,7 +2,8 @@
 
 - IFPE: Análise e Desenvolvimento de Sistemas (primeiro período)
 - ETE Cícero Dias: Técnico em programação de jogos digitais.
-- Atualmente dev jovem aprendiz back-end em Java Spring boot e mySQL.
+- Atualmente dev estagiário Full Stack na Fast Soluções em Angular, .Net e mySQL.
+- Antigo dev jovem aprendiz back-end na Momu Softwares em Java Spring boot e mySQL.
 
 <!--
 - Front-end: react js e bootstrap.
@@ -19,6 +20,7 @@
 <div style="display: inline_block"><br>
  - Front-end:
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
